@@ -1,4 +1,4 @@
-package com.custom.referredtotheprovinceskeyboard.adapter;
+package com.custom.keyboard.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.custom.referredtotheprovinceskeyboard.R;
+import com.custom.keyboard.R;
 
 /**
  * - @Description:

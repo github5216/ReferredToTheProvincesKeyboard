@@ -1,4 +1,4 @@
-package com.custom.referredtotheprovinceskeyboard.ui;
+package com.custom.keyboard.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -8,9 +8,9 @@ import android.widget.Button;
 import android.widget.PopupWindow;
 import android.widget.Toast;
 
-import com.custom.referredtotheprovinceskeyboard.R;
-import com.custom.referredtotheprovinceskeyboard.adapter.CustomKeyboardAdapter;
-import com.custom.referredtotheprovinceskeyboard.custom.ReferredProvincesKeyboard;
+import com.custom.keyboard.R;
+import com.custom.keyboard.adapter.CustomKeyboardAdapter;
+import com.custom.keyboard.custom.ReferredProvincesKeyboard;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, CustomKeyboardAdapter.OnKeyboardClickListener {
 

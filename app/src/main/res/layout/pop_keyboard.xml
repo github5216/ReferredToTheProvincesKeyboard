@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.custom.referredtotheprovinceskeyboard.custom.CustomGridView
+    <com.custom.keyboard.custom.CustomGridView
         android:id="@+id/gv_custom_keyboard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -1,4 +1,4 @@
-package com.custom.referredtotheprovinceskeyboard.custom;
+package com.custom.keyboard.custom;
 
 import android.content.Context;
 import android.util.AttributeSet;

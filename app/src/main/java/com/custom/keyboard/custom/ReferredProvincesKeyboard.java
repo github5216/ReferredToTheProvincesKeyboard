@@ -1,4 +1,4 @@
-package com.custom.referredtotheprovinceskeyboard.custom;
+package com.custom.keyboard.custom;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -9,8 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.PopupWindow;
 
-import com.custom.referredtotheprovinceskeyboard.R;
-import com.custom.referredtotheprovinceskeyboard.adapter.CustomKeyboardAdapter;
+import com.custom.keyboard.R;
+import com.custom.keyboard.adapter.CustomKeyboardAdapter;
 
 /**
  * - @Description:
